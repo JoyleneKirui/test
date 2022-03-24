@@ -31,8 +31,8 @@
 * CSS 
 ## Behaviour Driven Development
 1. Displays Form For Entering Date and Gender
--INPUT: "User's name entered"
--INPUT: "User's email entered"
++ INPUT: "User's name entered"
++ INPUT: "User's email entered"
 -INPUT: "message entered"
 -OUTPUT: "Pops up confirmation message"
 
